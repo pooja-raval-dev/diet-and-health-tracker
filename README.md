@@ -159,12 +159,13 @@ This project was developed as a **Mini Project** for the BCA program.
 ---
 
 👥 Team
-Krishna Katariya
-Pooja Raval
-Mayur Devganiya
+- Krishna Katariya
+- Pooja Raval
+- Mayur Devganiya
 
 ---
 
 ## 📌 Note
 
 This project was developed for educational purposes as part of the BCA curriculum.
+
